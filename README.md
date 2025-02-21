@@ -44,7 +44,7 @@ Advanced cooling solutions for electric vehicle battery packs using vortex tube 
 ---
 
 ## **Where to Get Help**  
-- **Open an Issue**: Use GitHub’s [Issues tab](https://github.com/Bhaskar.IIITDM/EV Battery Thermal Management Systems/issues) for technical queries.  
+- **Open an Issue**: Use GitHub’s [Issues tab](https://github.com/BhaskarIIITDM/EV Battery Thermal Management Systems/issues) for technical queries.  
 - **Contact Maintainer**:  
   - B. Bhaskar Rao  
   - Email: raobhaskar_52@gmail.com | Phone: +91 9668858192  
@@ -53,11 +53,8 @@ Advanced cooling solutions for electric vehicle battery packs using vortex tube 
 ---
 
 ## **Who Maintains & Contributes**  
-- **Maintainer**: [B. Bhaskar Rao](https://github.com/Bhaskar.IIITDM) (Sole developer/researcher).  
+- **Maintainer**: [B. Bhaskar Rao](https://github.com/BhaskarIIITDM).  
 - **Contributions Welcome**:  
   - Open a **Pull Request** for improvements to CFD models or LaTeX templates.  
   - Share experimental validation data via Issues.  
 
----
-
-**Note**: Replace `yourusername` and `repo-name` with your GitHub details.  
