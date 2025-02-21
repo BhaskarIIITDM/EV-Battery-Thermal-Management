@@ -38,13 +38,13 @@ Advanced cooling solutions for electric vehicle battery packs using vortex tube 
 2. **Explore Source Files**:  
    - LaTeX files, CFD models, and CAD designs are available in the respective project folders.  
 3. **Replicate/Extend**:  
-   - Use ANSYS Fluent for CFD validation (see `Simulation_Setup` folders).  
+   - Use ANSYS Fluent for CFD validation.  
    - Modify parameters in the LaTeX files for alternative battery configurations.  
 
 ---
 
 ## **Where to Get Help**  
-- **Open an Issue**: Use GitHub’s [Issues tab](https://github.com/yourusername/EV Battery Thermal Management Systems/issues) for technical queries.  
+- **Open an Issue**: Use GitHub’s [Issues tab](https://github.com/Bhaskar.IIITDM/EV Battery Thermal Management Systems/issues) for technical queries.  
 - **Contact Maintainer**:  
   - B. Bhaskar Rao  
   - Email: raobhaskar_52@gmail.com | Phone: +91 9668858192  
