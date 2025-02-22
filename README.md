@@ -37,7 +37,7 @@ Advanced cooling solutions for electric vehicle battery packs using vortex tube 
    - [SynJet Cooling Paper]( https://drive.google.com/file/d/1nkqf5jAN8AyQB4fR2uFf2Dk8tKBBfMpH/view?usp=sharing)  
 2. **Replicate/Extend**:  
    - Use ANSYS Fluent for CFD validation.  
-   - Modify parameters in the LaTeX files for alternative battery configurations.  
+   - Modify parameters for alternative battery configurations.  
 
 ---
 
@@ -53,6 +53,6 @@ Advanced cooling solutions for electric vehicle battery packs using vortex tube 
 ## **Who Maintains & Contributes**  
 - **Maintainer**: [B. Bhaskar Rao](https://github.com/BhaskarIIITDM).  
 - **Contributions Welcome**:  
-  - Open a **Pull Request** for improvements to CFD models or LaTeX templates.  
+  - Open a **Pull Request** for improvements to LaTeX templates.  
   - Share experimental validation data via Issues.  
 
