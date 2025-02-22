@@ -33,8 +33,8 @@ Advanced cooling solutions for electric vehicle battery packs using vortex tube 
 ## **How to Get Started**  
 ### For Researchers/Companies:  
 1. **Review the Research**:  
-   - [Vortex Tube Cooling Paper](Vortex-Tube-Cooling/Research_Paper.pdf)  
-   - [SynJet Cooling Paper](Synthetic-Jet-Cooling/Research_Paper.pdf)  
+   - [Vortex Tube Cooling Paper]( https://drive.google.com/drive/my-drive)  
+   - [SynJet Cooling Paper]( https://drive.google.com/drive/my-drive)  
 2. **Explore Source Files**:  
    - LaTeX files, CFD models, and CAD designs are available in the respective project folders.  
 3. **Replicate/Extend**:  
